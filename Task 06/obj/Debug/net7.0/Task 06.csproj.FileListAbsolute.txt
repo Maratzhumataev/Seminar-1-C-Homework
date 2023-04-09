@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/bin/Debug/net7.0/Task 06
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/bin/Debug/net7.0/Task 06.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/bin/Debug/net7.0/Task 06.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/bin/Debug/net7.0/Task 06.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/bin/Debug/net7.0/Task 06.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/refint/Task 06.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/Task 06.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 1 по С# homework/Task 06/obj/Debug/net7.0/ref/Task 06.dll
